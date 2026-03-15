@@ -48,3 +48,6 @@ Cada producto se guarda como un **diccionario** con la siguiente estructura:
 
 # Capturas del funcionamiento
 
+![Imagen 1](https://github.com/4lanPz/TAREA8M1_CETCIS/blob/main/image%201.jpg)
+
+![Imagen 2](https://github.com/4lanPz/TAREA8M1_CETCIS/blob/main/image%202.jpg)
